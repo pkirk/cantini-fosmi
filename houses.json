@@ -1,0 +1,48 @@
+[
+  {
+    "id": 94155,
+    "name": "Villa G",
+    "devices": [
+      {
+        "id": 31377,
+        "is_master": true,
+        "type": "ECO",
+        "house_id": 94155,
+        "serial": "000047A5",
+        "name": "Soggiorno"
+      },
+      {
+        "id": 31431,
+        "is_master": true,
+        "type": "ECO",
+        "house_id": 94155,
+        "serial": "00004D86",
+        "name": "Camera Matrimoniale"
+      },
+      {
+        "id": 31638,
+        "is_master": true,
+        "type": "ECO",
+        "house_id": 94155,
+        "serial": "000047A8",
+        "name": "Camera Gi\u00f2"
+      },
+      {
+        "id": 31639,
+        "is_master": true,
+        "type": "ECO",
+        "house_id": 94155,
+        "serial": "000047A7",
+        "name": "Bagno Azzurro"
+      },
+      {
+        "id": 31640,
+        "is_master": true,
+        "type": "ECO",
+        "house_id": 94155,
+        "serial": "000047AA",
+        "name": "Camera Gloria"
+      }
+    ]
+  }
+]
